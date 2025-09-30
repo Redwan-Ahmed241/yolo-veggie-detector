@@ -17,11 +17,11 @@
 #include "ArduinoJson.h"
 
 // WiFi credentials
-const char* ssid = "hridoy";
-const char* password = "arafat4542";
+const char* ssid = "Redwan's Den";
+const char* password = "redwan41";
 
 // YOLO API Server endpoint
-const char* serverHost = "192.168.0.113";
+const char* serverHost = "192.168.0.101";
 const int serverPort = 8000;
 
 // Camera pins for ESP32-S3
